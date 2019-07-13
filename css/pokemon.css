@@ -1,0 +1,27 @@
+p{
+  color: purple;
+}
+h1{
+  font-family: 'Satisfy', cursive;
+  color: DodgerBlue;
+}
+img{
+  height: 200px;
+  border-radius: 100px;
+}
+h3{
+  color: gold;
+}
+body{
+  text-align: center;
+  background: url(../images/css1.jpg) no-repeat fixed;
+  background-size: cover;
+  font-family: 'Barriecito', cursive;
+  font-size:25px;
+}
+li{
+ color: DarkGreen;
+}
+h2{
+  color: DarkOrange;
+}
